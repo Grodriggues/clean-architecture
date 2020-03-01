@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jofreis/clean-architecture/issues"
   },
-  "homepage": "https://github.com/jofreis/clean-architecture#readme"
+  "homepage": "https://github.com/jofreis/clean-architecture#readme",
+  "devDependencies": {
+    "lint-staged": "^10.0.8",
+    "standard": "^14.3.1"
+  }
 }
